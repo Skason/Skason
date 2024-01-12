@@ -21,6 +21,8 @@
 - Kubernetes & Helm & Qbec
 - Yandex.Cloud
 
+### Практические работы:
+
 ### Сертификаты Нетология:
 - [IT-системы и Linux](https://github.com/Skason/Skason/blob/main/Documents/cert_IT-system%20and%20Linux.pdf)
 - [Сеть, сетевые протоколы и Bash](https://github.com/Skason/Skason/blob/main/Documents/cert_Network%2C%20network%20protocols%20and%20Bash.pdf)
