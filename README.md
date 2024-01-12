@@ -22,5 +22,5 @@
 - Yandex.Cloud
 
 ### Мои сертификаты Нетология:
-- Свидетельства об обучении
+- [Свидетельства об обучении] (https://github.com/Skason/Skason/blob/main/Documents/Diplom.pdf)
 - Дипломный практикум
