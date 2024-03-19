@@ -6,7 +6,7 @@
 
 - OS Windows (Servers, Workstations)
 - OS Linux (CentOS, Ubuntu, Debian)
-- Virtualisation (Proxmox, VMWare, Hyper-V)
+- Virtualisation (VMWare, Hyper-V)
 - Git
 - Bash
 - Python
