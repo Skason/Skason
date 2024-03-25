@@ -5,20 +5,19 @@
 ### Мой технический стек:
 
 - OS Windows (Servers, Workstations)
-- OS Linux (CentOS, Ubuntu, Debian)
+- OS Linux (Ubuntu, Debian)
 - Virtualisation (VMWare, Hyper-V)
 - Git
 - Bash
-- Python
-- Docker & Docker Swarm & Docker Compose
+- Docker & Docker Compose
 - Packer
-- Terraform & Terraform Cloud
+- Terraform
 - Ansible
 - Jenkins & TeamCity & Gitlab CI
 - Prometheus & Grafana & Alertmanager
 - ELK
 - Zabbix
-- Kubernetes & Helm & Qbec
+- Kubernetes
 - Yandex.Cloud
 
 ### Практические работы:
